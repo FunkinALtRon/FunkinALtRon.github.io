@@ -1,0 +1,1 @@
+all credits goes to funkinCrew, i just compiled the game https://github.com/FunkinCrew/Funkin
